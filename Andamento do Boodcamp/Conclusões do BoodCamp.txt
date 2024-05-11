@@ -1,0 +1,6 @@
+Principios de Desenvolvimento de Software.
+1- Introdução á Programação e Pensamento Computacional > Concluido
+2- Trabalhandoo em Equipes Ágeis > Concluido
+3- Introdução ao Git e ao GitHub > Concluido
+4- Como Entregar seu Desafio de Projeto > Concluido
+5- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso > Concluido
