@@ -4,3 +4,4 @@ Principios de Desenvolvimento de Software.
 3- Introdução ao Git e ao GitHub > Concluido
 4- Como Entregar seu Desafio de Projeto > Concluido
 5- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso > Concluido
+6- Dominando IDEs Java > Concluido
